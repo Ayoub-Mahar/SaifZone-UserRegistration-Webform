@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\BAL.dll
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\BAL.pdb
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\DTOs.dll
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\DAL.dll.config
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\bin\Debug\DTOs.pdb
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\obj\Debug\BAL.dll
+C:\Users\Lenovo\source\repos\UserRegistrationApp\BAL\obj\Debug\BAL.pdb

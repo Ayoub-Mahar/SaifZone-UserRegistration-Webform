@@ -1,0 +1,5 @@
+C:\Users\Lenovo\source\repos\UserRegistrationApp\DTOs\bin\Debug\DTOs.dll
+C:\Users\Lenovo\source\repos\UserRegistrationApp\DTOs\bin\Debug\DTOs.pdb
+C:\Users\Lenovo\source\repos\UserRegistrationApp\DTOs\obj\Debug\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\UserRegistrationApp\DTOs\obj\Debug\DTOs.dll
+C:\Users\Lenovo\source\repos\UserRegistrationApp\DTOs\obj\Debug\DTOs.pdb
